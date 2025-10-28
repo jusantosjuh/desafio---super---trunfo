@@ -1,7 +1,4 @@
 # Desafio Lógica Super Trunfo
-# Feito por Júllia Pontes
-# (se quiser pode colocar a data ou nome da faculdade)
-
 cartas = {
     "Leão": {"força": 90, "velocidade": 70, "inteligência": 40},
     "Tigre": {"força": 85, "velocidade": 75, "inteligência": 50},
